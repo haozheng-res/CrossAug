@@ -1,0 +1,5 @@
+# Python 3.10; install the PyTorch 2.2.2 build matching your CUDA environment.
+torch==2.2.2
+numpy>=1.23,<2
+pandas>=1.5,<3
+scikit-learn>=1.2,<2
